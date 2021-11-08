@@ -667,13 +667,7 @@ KLASSIF_UEBERST_ENA
 KLS_BEI_AL_AKTIV
 	aktiv
 LENK_UEBERSETZUNG
-	wert_13
-	wert_14
-	wert_16
-	wert_17
-	wert_18
-	wert_22
-	wert_27
+	m3_rack
 LENK_UEBERSETZUNG_LO
 	wert_13
 LICHTZ_R_L_FAKTOR
