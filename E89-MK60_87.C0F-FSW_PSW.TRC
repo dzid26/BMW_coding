@@ -1,0 +1,194 @@
+SZL
+	wert_02
+C0X_C8
+	wert_02
+C0C_AFH_HSA
+	wert_01
+C0C_AFS
+	wert_00
+C0C_ASC_AMR_STB
+	wert_03
+C0C_ASC_BMR_STB
+	wert_01
+C0C_ASL
+	wert_00
+C0C_BAUART
+	wert_02
+C0C_BB_RAB
+	wert_01
+C0C_BBV
+	wert_00
+C0C_BBV_KORR_HA
+	wert_02
+C0C_BBV_KORR_VA
+	wert_00
+	wert_02
+C0C_BERGAB_GERASTET
+	wert_00
+	wert_01
+C0C_BERGAB_KENNEN
+	wert_00
+	wert_01
+C0C_BERGABANSATZ
+	wert_00
+C0C_BTM
+	wert_00
+C0C_CBC
+	wert_00
+C0C_CF_ESM_HB
+	wert_00
+	wert_01
+C0C_CF_ESM_LB
+	wert_00
+	wert_01
+C0C_CR_ESM_HB
+	wert_00
+	wert_01
+C0C_CR_ESM_LB
+	wert_00
+	wert_01
+C0C_DBC_MIN_AUSLOESEDRUCK
+	wert_00
+C0C_DCC_C_AAT
+	wert_00
+C0C_DCC_C_ATT_SCHUB_AUS
+	wert_00
+C0C_DCC_C_ATT_SCHUB_EIN
+	wert_00
+C0C_DCC_DTC
+	wert_00
+C0C_DELTA_PSI_BETA_LIMIT
+	wert_01
+C0C_DF_DIR
+	wert_00
+	wert_01
+C0C_DIFF_LOCK
+	wert_02
+C0C_DRUCKMODELL_HA
+	wert_05
+C0C_DRUCKMODELL_VA
+	wert_06
+C0C_ECBA_DCC
+	wert_00
+C0C_FBS
+	wert_01
+C0C_FLR
+	wert_01
+C0C_GETRIEBE
+	wert_00
+C0C_GMB
+	wert_00
+C0C_GMK_ECBA_HA
+	wert_02
+C0C_GMK_ECBA_VA
+	wert_00
+	wert_05
+C0C_GMR_MAX_LIMIT_SCHRAEG
+	wert_00
+C0C_GMR_MIN_LIMIT_SCHRAEG
+	wert_00
+C0C_HSA
+	wert_01
+C0C_HSA_AFH_AFU
+	wert_00
+C0C_IPM_MAX_P_RES
+	wert_00
+C0C_KUEHLSCHACHT
+	wert_00
+	wert_01
+C0C_LCL
+	wert_00
+C0C_LENKWINKELKENNLINIE
+	wert_03
+C0C_LF_ESM
+	wert_00
+	wert_01
+C0C_LR_ESM
+	wert_00
+	wert_01
+C0C_LUEFTER
+	wert_00
+C0C_LWK_X2
+	wert_00
+	wert_01
+C0C_LWK_X3
+	wert_00
+	wert_01
+C0C_LWK_X4
+	wert_00
+	wert_01
+C0C_LWK_Y1
+	wert_00
+	wert_01
+C0C_LWK_Y2
+	wert_00
+	wert_01
+C0C_LWK_Y3
+	wert_00
+	wert_01
+C0C_LWK_Y4
+	wert_00
+	wert_01
+C0C_M_ESM
+	wert_00
+	wert_01
+C0C_MIN_DRUCKAUFBAU_GRAD
+	wert_00
+C0C_MOTOR
+	wert_07
+C0C_MOTOR_LEISTUNG_MAX
+	wert_00
+	wert_18
+C0C_MOTOR_SCHLEPP_P
+	wert_00
+	wert_01
+C0C_PRE_MSR
+	wert_00
+C0C_PRE_USC
+	wert_00
+C0C_RPA
+	wert_00
+C0C_RPA_SCHWELLE
+	wert_01
+C0C_SC_X_ESM
+	wert_00
+	wert_01
+C0C_SC_Y_ESM
+	wert_00
+	wert_01
+C0C_SCHUBABSCHALTUNG
+	wert_00
+C0C_SDR_CTC
+	wert_00
+C0C_SETZ_V_MAX
+	wert_00
+C0C_SPURWEITE
+	wert_00
+	wert_01
+C0C_SST
+	wert_01
+C0C_TB_BDD
+	wert_01
+C0C_THETA_ESM
+	wert_00
+	wert_01
+C0C_UEBERSTEUERN_MUE_0
+	wert_04
+C0C_UEBERSTEUERN_MUE_1_2
+	wert_05
+C0C_UNTERSTEUERN_MUE_0
+	wert_00
+C0C_UNTERSTEUERN_MUE_1_2
+	wert_00
+C0C_UNTERSTEUERSCHWELLE
+	wert_01
+C0C_V_EINHEIT
+	wert_00
+C0C_VERZOEG_NEG_FEIN
+	wert_00
+C0C_VERZOEG_NEG_GROB
+	wert_00
+C0C_VERZOEG_POS_FEIN
+	wert_00
+C0C_VERZOEG_POS_GROB
+	wert_00
