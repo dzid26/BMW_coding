@@ -1,0 +1,178 @@
+BAUREIHE
+	e82
+OFF_MEMORY
+	aktiv
+KLIMA_SPERREN
+	nicht_aktiv
+EL_ZUHEIZER_PTC
+	nicht_verbaut
+RL_LL
+	ll
+EINBAUORT
+	unten
+ZYLINDER_ZAHL
+	6_zylinder
+STANDHEIZUNG
+	nicht_aktiv
+GEBLAESE_AUTO_MIT_A
+	aktiv
+GEBLAESE_AUTO_MIT_BALKEN
+	aktiv
+GEBLAESE_MIT_LUEFTER_SYMB
+	aktiv
+GEBLAESE_MIT_RAHMEN
+	aktiv
+KOMPRESSOR
+	gross
+LAENDERVARANTE
+	ece
+SOLARSENSORKENNLINIE
+	kennlinie_01
+UEBERSETZUNG_KOMPRESSOR
+	wert_03
+UMLUFT_MEMORY
+	aktiv
+AUTO_BEI_KL15_EIN_0
+	nicht_aktiv
+AUTO_BEI_KL15_EIN_1
+	nicht_aktiv
+AUTO_BEI_KL15_EIN_10/15
+	nicht_aktiv
+AUTO_BEI_KL15_EIN_2
+	nicht_aktiv
+C_CKM_D_AUTO_BEI_KL15_EIN
+	nicht_aktiv
+C_CKM_D_GEBLAESE_OFFSET
+	kein_offset
+C_CKM_D_KLIMA_MIT_AUTO
+	aktiv
+C_CKM_D_TEMPERATUR_OFFSET
+	kein_offset
+GEBLAESE_OFFSET_0
+	kein_geblaese_offset
+GEBLAESE_OFFSET_1
+	kein_geblaese_offset
+GEBLAESE_OFFSET_10/15
+	kein_offset
+GEBLAESE_OFFSET_2
+	kein_geblaese_offset
+KLIMA_MIT_AUTO_0
+	nicht_aktiv
+KLIMA_MIT_AUTO_1
+	nicht_aktiv
+KLIMA_MIT_AUTO_10/15
+	aktiv
+KLIMA_MIT_AUTO_2
+	aktiv
+TEMPERATUR_OFFSET_0
+	kein_offset
+TEMPERATUR_OFFSET_1
+	kein_offset
+TEMPERATUR_OFFSET_10/15
+	kein_offset
+TEMPERATUR_OFFSET_2
+	kein_offset
+ERSTE_HEIZZEIT_HHS_A
+	e82
+	e88
+	e91
+	e92
+	e93
+ERSTE_HEIZZEIT_HHS_B
+	e82
+	e88
+	e91
+	e92
+	e93
+TAKTUNGSDAUER_HHS
+	e81
+	e82
+	e87
+	e88
+	e90
+	e91
+	e93
+	e92
+ZWEITE_HEIZZEIT_HHS
+	e82
+	e88
+	e90
+	e91
+	e92
+	e93
+ZWP/EWP
+	ewp
+MOTOR_IHX
+	benzin_normal
+PIA_PORTIERUNG
+	datenportierung_aktiv
+STANDHEIZUNG_SZ
+	nicht_aktiv
+ANZEIGE_TIMER_STHZ_SA
+	aktiv
+NACHLAUFZEIT_UM_VENTIL
+	wert_00
+PSEUDOZUHEIZEN
+	nicht_aktiv
+MSA
+	nicht_aktiv
+ALKS
+	nicht_aktiv
+KOMPRESSOR_KUPPLUNG
+	nicht_aktiv
+IGR
+	nicht_aktiv
+DEFROST_LEITSCHAUFELN
+	aktiv
+KOMPRESSOR_MITTEL
+	nicht_aktiv
+MANUELLES_VERDECK_E88
+	nicht_verbaut
+MSA_NOTSTRATEGIE
+	nicht_aktiv
+WARTUNGSINTERVALL_FZE
+	wert_01
+MSA_ANSTEUERLOGIK
+	ihxx
+KMK_ZUSCHALTSCHWELLE
+	hoch
+IHX_CBS
+	nicht_aktiv
+MSA_MEMORY
+	nicht_aktiv
+KLIMAGERAET_MIT_SCHICHTNG
+	aktiv
+SH_ZUHEIZEN
+	nicht_aktiv
+ABK_KLIMASTIL
+	5_klimastile
+BAUKASTEN_PTC
+	verbaut
+VERBRAUCHSOPTIMIERUNG
+	nicht_aktiv
+F25_BESCHL_VERM
+	aktiv
+CC_MELDUNG_SH
+	nicht_aktiv
+REST_TASTE_VERBAUT
+	nicht_aktiv
+MSA_KENNLINIENSATZ_US
+	nicht_aktiv
+DELAY_SH_LED
+	nicht_aktiv
+ECO_PRO_MODE
+	nicht_aktiv
+TEILLASTBETRIEB_SH
+	nicht_aktiv
+ECO_PRO_DEFAULT_START
+	nicht_aktiv
+ECO_PRO_LAST_FU
+	nicht_aktiv
+GBL_OFF
+	nicht_aktiv
+KOREA_SYMBOL
+	nicht_aktiv
+KOMP_AKUSTIK
+	vdw_niedrig
+HDC_ZYKLISCH
+	nicht_aktiv
