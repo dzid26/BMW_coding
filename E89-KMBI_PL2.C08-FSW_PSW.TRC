@@ -163,9 +163,9 @@ CSUM_ACC
 CODING_VALID_BMW
 	wert_01
 ACC_ALIVE_ZAEHLER
-	nicht_aktiv
+	aktiv
 ACC_AUSSTATTUNG
-	wert_01
+	wert_02
 AFS_ALIVE_ZAEHLER
 	nicht_aktiv
 BC_2_ENABLE
@@ -197,7 +197,7 @@ EGS_ALIVE_ZAEHLER
 ACC_CSUM_MONITOR
 	nicht_aktiv
 ACC_ID_MONITOR
-	nicht_aktiv
+	aktiv
 AFS_ID_MONITOR
 	nicht_aktiv
 ARS_ID_MONITOR
@@ -575,7 +575,7 @@ DZM_DISP_RPM
 HU_VERBAUT_C08
 	radiostufe_3_4
 SZ_ANSTEUERUNG
-	nicht_aktiv
+	aktiv
 TORQUE_3_ID_MONITOR
 	nicht_aktiv
 VERDECKVARIANTE
