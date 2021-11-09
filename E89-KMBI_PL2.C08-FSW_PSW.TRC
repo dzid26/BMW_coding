@@ -59,7 +59,7 @@ CAS_ALIVE
 LM_ALIVE
 	aktiv
 BC_DIGITAL_V
-	aktiv
+	nicht_aktiv
 BC_DIGITAL_V_KORREKTUR
 	nicht_aktiv
 ZGM_ALIVE_ZAEHLER
