@@ -189,7 +189,7 @@ AHM_ALIVE
 ARS_ALIVE_ZAEHLER
 	nicht_aktiv
 RDC_ALIVE
-	aktiv
+	nicht_aktiv
 GETRIEBE_ART
 	ssg
 EGS_ALIVE_ZAEHLER
@@ -326,7 +326,7 @@ MMI_ENA_RPA_RDC
 MMI_ENA_UHR_DATUM
 	aktiv
 RDC_VERBAUT
-	aktiv
+	nicht_aktiv
 K410D_C_WEG_1
 	wert_02
 K410D_C_WEG_2
@@ -414,7 +414,7 @@ DIMM_MN_MIN
 CRASH_TH_DIMMUNG
 	wert_01
 DSC_MIT_RPA_CC
-	nicht_aktiv
+	aktiv
 DWA_VERBAUT
 	nicht_aktiv
 FB_ALLE_TUEREN
@@ -505,7 +505,7 @@ CC_ID_AKTIV_10
 	wert_01
 	wert_02
 CC_ID_AKTIV_11
-	wert_03
+	wert_04
 CC_ID_AKTIV_14
 	wert_03
 DIGITAL_KVA
@@ -565,7 +565,7 @@ TANK_SCHWELLE_AUF_AB
 DZM_UMRECHNUNG
 	wert_02
 RDC_DISP_SWITCH
-	aktiv
+	nicht_aktiv
 DISP_ENGDAT_ALIVE_ZAEHLER
 	aktiv
 DISP_ENGDAT_ID_MONITOR
