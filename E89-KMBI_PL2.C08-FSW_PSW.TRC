@@ -448,7 +448,7 @@ OHNE_QUITT_VER
 QUITT_AKUST_ENT
 	nicht_aktiv
 QUITT_AKUST_VER
-	aktiv
+	nicht_aktiv
 QUITT_OPT_AKUST_ENT
 	nicht_aktiv
 QUITT_OPT_AKUST_VER
