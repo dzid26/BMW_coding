@@ -541,7 +541,7 @@ EDCK_ID_MONITOR
 M_TAG_SKALENBELEUCHTUNG
 	nicht_aktiv
 MMI_ENA_SHIFTLIGHTS
-	aktiv
+	nicht_aktiv
 MOTORSPORT
 	wert_02
 MSA_SWITCH_ON_OFF_ENABLE
@@ -599,13 +599,13 @@ FDS_ENABLE
 FDS_ID_MONITOR
 	nicht_aktiv
 SP_ANZEIGE
-	aktiv
+	nicht_aktiv
 SP_ANZEIGE_1
 	aktiv
 SP_ANZEIGE_2
-	aktiv
+	nicht_aktiv
 SP_ANZEIGE_3
-	aktiv
+	nicht_aktiv
 SP_ANZEIGE_4
 	nicht_aktiv
 C08_K_ZAHL_TACHO
