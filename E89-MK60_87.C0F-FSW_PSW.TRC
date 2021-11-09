@@ -73,7 +73,8 @@ C0F_ECBA_DCC
 C0F_FBS
 	wert_01
 C0F_FLR
-	wert_01
+	wert_00
+	wert_02
 C0F_GETRIEBE
 	wert_02
 C0F_GMB
