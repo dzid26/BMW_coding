@@ -166,7 +166,7 @@ C0F_SPURWEITE
 	wert_00
 	wert_01
 C0F_SST
-	wert_00
+	wert_01_on
 C0F_TB_BDD
 	wert_01
 C0F_THETA_ESM
