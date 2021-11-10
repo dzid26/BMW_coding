@@ -1,0 +1,78 @@
+BLINKEN_FA
+	anlieferzustand
+	wert_02
+ENTPRELLZEIT_HALLSENSOREN
+	anlieferzustand
+	wert_01
+ENTPRELLZEIT_P
+	anlieferzustand
+	wert_01
+ENTPRELLZEIT_SPORT
+	wert_01
+ENTPRELLZEIT_UNLOCK
+	anlieferzustand
+	wert_01
+ERROR_MASK
+	anlieferzustand
+	wert_01
+FA_PWM_MAX
+	anlieferzustand
+	wert_04
+FA_PWM_MIN
+	anlieferzustand
+	wert_03
+HAFT_ANZ_RUECKSTEL_BIS_FS
+	anlieferzustand
+	wert_03
+HAFT_ANZAHL_RUECKSTELL
+	anlieferzustand
+	wert_04
+HAFT_RUECKSTELL_PERIODE
+	anlieferzustand
+	wert_01
+HAFT_RUECKSTELL_VERZGRNG
+	anlieferzustand
+	wert_04
+HAFT_RUECKSTELLPULSLAENGE
+	anlieferzustand
+	wert_05
+SPERREN_ANZUG_PWM
+	anlieferzustand
+	wert_07
+SPERREN_ANZUGSZEIT
+	anlieferzustand
+	wert_05
+SPERREN_HALTE_PWM
+	anlieferzustand
+	wert_06
+SUCHBEL_PWM_MAX
+	anlieferzustand
+	wert_04
+SUCHBEL_PWM_MIN
+	anlieferzustand
+	wert_03
+U_MAX_FS
+	anlieferzustand
+	wert_02
+U_MAX_SPERREN
+	anlieferzustand
+	wert_02
+U_MIN_FS
+	anlieferzustand
+	wert_02
+U_MIN_SPERREN
+	anlieferzustand
+	wert_02
+GESCHW_ABH_SPERREN_AKTIV
+	anlieferzustand
+	wert_02
+GESCHW_ABH_SPERREN_ENTPR
+	anlieferzustand
+	wert_02
+GESCHW_ABH_SPERREN_SCHW
+	anlieferzustand
+	wert_02
+TIP_IN_D
+	wert_01
+N_VERZOEGERUNG
+	wert_01
