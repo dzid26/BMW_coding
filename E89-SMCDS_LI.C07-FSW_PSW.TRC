@@ -1,0 +1,242 @@
+KL_ENABLE
+	wert_02
+KL_FLANKE_SEN_ERR
+	wert_01
+KL_HELLA_MES_SEN_ERR
+	wert_01
+KL_HS
+	wert_02
+KL_HS_GRAD_HIGH
+	wert_01
+KL_HS_GRAD_WERT
+	wert_01
+KL_KOMFORT
+	wert_01
+KL_MAX_WINKEL_MIN_LI
+	wert_02
+KL_MAX_WINKEL_PL_LI
+	wert_01
+	wert_03
+KL_POSIT_RECHTS_LI
+	wert_02
+KL_RAMP_BESCH
+	wert_04
+KL_SENS_INVERT_LI
+	wert_02
+KL_SENSOR
+	wert_02
+KL_SENSOR_AUSWERT
+	wert_02
+KL_TEST
+	wert_01
+KL_TIME_OUT
+	wert_02
+KL_TREIBER_ERR
+	wert_01
+LWR_ABS_LINKS_VERK
+	wert_02
+LWR_ABS_RECHTS_VERK
+	wert_02
+LWR_ENABLE
+	wert_02
+LWR_HS
+	wert_02
+LWR_POSIT_RECHTS_LI
+	wert_02
+LWR_RAMP_BESCH
+	wert_02
+LWR_RAMP_BREMS
+	wert_02
+LWR_SIZE_RAMP_BREMS
+	wert_01
+LWR_TEST
+	wert_01
+LWR_TIME_OUT
+	wert_02
+LWR_TREIBER_ERR
+	nicht_aktiv
+NOT_U_SENS
+	wert_01
+SPIKE_ERR
+	wert_01
+WARN_GRENZ
+	wert_05
+DIAGN_OFFSET
+	wert_02
+KL_SENSOR_PWM_NULL_LI
+	wert_02
+PWM_VER_EINHEIT
+	wert_02
+SENSOR_PWM_NEG
+	wert_01
+SENSOR_VALEO
+	wert_01
+STROM_HALT_KL
+	wert_02
+STROM_NORMAL_KL
+	wert_02
+STROM_RAMPE_KL
+	wert_02
+WINKEL_ZUM_PWM
+	wert_02
+DEF_POSIT_LWR_LI
+	wert_05
+KL_SCHRITT_ABST_REF2_LI
+	wert_02
+KL_SCHRITT_ANZ_REF2
+	wert_02
+KL_MAX_WERR_SPEED
+	wert_01
+KL_MAX_WERT_START
+	wert_01
+KL_TREIBER_BEW_LI
+	wert_02
+LWR_MAX_WERR_SPEED
+	wert_01
+LWR_TREIBER_BEW_LI
+	aktiv
+LWR_ABS_SENS_DEF
+	wert_02
+RAMPE4_BL_0
+	kennlinie_02
+RAMPE4_BL_1
+	kennlinie_02
+RAMPE4_BL_2
+	kennlinie_02
+	kennlinie_03
+RAMPE4_BL_3
+	kennlinie_02
+RAMPE5_BL_0
+	kennlinie_02
+RAMPE5_BL_1
+	kennlinie_02
+RAMPE5_BL_2
+	kennlinie_02
+RAMPE5_BL_3
+	kennlinie_02
+RAMPE6_BL_0
+	kennlinie_02
+RAMPE6_BL_1
+	kennlinie_02
+RAMPE6_BL_2
+	kennlinie_02
+RAMPE6_BL_3
+	kennlinie_02
+RAMPE7_BL_0
+	kennlinie_02
+RAMPE7_BL_1
+	kennlinie_02
+RAMPE7_BL_2
+	kennlinie_01
+RAMPE7_BL_3
+	kennlinie_01
+BASE_FEHL_EINTR_1
+	wert_02
+	wert_04
+CKS_BL_1
+	wert_02
+GESCHW_NOT_PROGR_1
+	wert_01
+GESCHW_TAB_1_0
+	kennlinie_04
+GESCHW_TAB_1_1
+	kennlinie_04
+GESCHW_TAB_1_2
+	kennlinie_04
+GESCHW_TAB_1_3
+	kennlinie_04
+GESCHW_TAB_1_4
+	kennlinie_05
+KL_ABST_POSIT_LI_1
+	wert_03
+KL_ANSCHLAG_OPT_LI_1
+	wert_07
+KL_ANSCHLAG_WEICH_LI_1
+	wert_06
+KL_HS_GRAD_LOW_1
+	wert_04
+KL_NUL_LAGE_SENSOR_LI_1
+	wert_03
+KL_RAMP_BREMS_1
+	wert_02
+KL_REF_SPEED_1
+	wert_04
+KL_SIZE_RAMP_BESCH_1
+	wert_03
+KL_SIZE_RAMP_BREMS_1
+	wert_03
+LWR_ABST_POSIT_1
+	wert_01
+LWR_ANSCHLAG_OPT_1
+	wert_02
+LWR_ANSCHLAG_WEICH_1
+	wert_06
+LWR_HS_GRAD_LOW_1
+	wert_05
+LWR_HS_GRAD_WERT_1
+	wert_05
+LWR_MAX_WERT_START_1
+	wert_01
+LWR_MAX_WINKEL_MIN_1
+	wert_06
+LWR_MAX_WINKEL_PL_1
+	wert_05
+OFFSET_FEHL_EINTR_1
+	wert_05
+RAMPE_ZUS_1_0
+	kennlinie_4
+RAMPE_ZUS_1_1
+	kennlinie_4
+RAMPE_ZUS_1_2
+	kennlinie_4
+RAMPE0_BL_1_0
+	kennlinie_05
+RAMPE0_BL_1_1
+	kennlinie_05
+RAMPE0_BL_1_2
+	kennlinie_05
+	kennlinie_06
+RAMPE0_BL_1_3
+	kennlinie_05
+	kennlinie_06
+RAMPE1_BL_1_0
+	kennlinie_04
+	kennlinie_05
+RAMPE1_BL_1_1
+	kennlinie_04
+	kennlinie_05
+RAMPE1_BL_1_2
+	kennlinie_05
+	kennlinie_06
+RAMPE1_BL_1_3
+	kennlinie_04
+RAMPE2_BL_1_0
+	kennlinie_04
+RAMPE2_BL_1_1
+	kennlinie_04
+RAMPE2_BL_1_2
+	kennlinie_05
+	kennlinie_06
+RAMPE2_BL_1_3
+	kennlinie_04
+	kennlinie_05
+RAMPE3_BL_1_0
+	kennlinie_04
+RAMPE3_BL_1_1
+	kennlinie_03
+RAMPE3_BL_1_2
+	kennlinie_01
+	kennlinie_03
+RAMPE3_BL_1_3
+	kennlinie_01
+	kennlinie_03
+STROM_NORMAL_LWR_1
+	wert_02
+STROM_RAMPE_LWR_1
+	wert_02
+UNTER_KORREKT_WERT_1
+	wert_02
+NOT_SENS_DEF_SN
+	wert_01
+LWR_ABSENK_WINK
+	wert_01
