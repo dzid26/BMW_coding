@@ -203,7 +203,7 @@ AFS_ID_MONITOR
 ARS_ID_MONITOR
 	nicht_aktiv
 BC_LEERZEILE
-	nicht_aktiv
+	aktiv
 CBS_GELB_KM_MIN
 	wert_01
 CBS_INTD_03H
