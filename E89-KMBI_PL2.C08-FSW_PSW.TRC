@@ -513,9 +513,9 @@ DIGITAL_KVA
 SCHALT_HINW_ID_MONITOR
 	nicht_aktiv
 SCHALT_PKT_BC
-	aktiv
+	nicht_aktiv
 SCHALT_PKT_DAUERHAFT
-	aktiv
+	nicht_aktiv
 SPORT_ANZEIGE
 	aktiv
 E92_E93_FZG
@@ -601,7 +601,7 @@ FDS_ID_MONITOR
 SP_ANZEIGE
 	nicht_aktiv
 SP_ANZEIGE_1
-	aktiv
+	nicht_aktiv
 SP_ANZEIGE_2
 	nicht_aktiv
 SP_ANZEIGE_3
