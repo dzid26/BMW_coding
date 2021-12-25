@@ -2727,7 +2727,7 @@ PWM_KZL_3R
 PWM_NSW_3R
 	wert_02
 SIDEMARKER_US_MIT_FRA_V
-	aktiv
+	nicht_aktiv
 SL_FKT_MIT_BFD
 	nicht_aktiv
 VERBAU_ABBIEGEL_PL2_3R
