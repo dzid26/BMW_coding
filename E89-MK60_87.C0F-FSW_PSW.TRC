@@ -99,7 +99,7 @@ C0F_KUEHLSCHACHT
 C0F_LCL
 	wert_00
 C0F_LENKWINKELKENNLINIE
-	wert_03
+	wert_02
 C0F_LF_ESM
 	wert_00
 	wert_01
@@ -109,26 +109,19 @@ C0F_LR_ESM
 C0F_LUEFTER
 	wert_00
 C0F_LWK_X2
-	wert_00
-	wert_01
+	wert_03
 C0F_LWK_X3
-	wert_00
-	wert_01
+	wert_03
 C0F_LWK_X4
-	wert_00
-	wert_01
+	wert_03
 C0F_LWK_Y1
-	wert_00
-	wert_01
+	m3
 C0F_LWK_Y2
-	wert_00
-	wert_01
+	m3
 C0F_LWK_Y3
-	wert_00
-	wert_01
+	m3
 C0F_LWK_Y4
-	wert_00
-	wert_01
+	m3
 C0F_M_ESM
 	wert_00
 	wert_01
