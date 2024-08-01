@@ -1,1 +1,1 @@
-Some of the TRC from this repo needs binary data definition from the Releases. The binary data needs to be downloaded first and placed in `C:\NCSEXPER\DATEN\E89`
+Some of the TRC from this repo needs binary data definition from the Releases. The binary data needs to be downloaded and placed in `C:\NCSEXPER\DATEN\E89`.  First create backup of `C:\NCSEXPER\DATEN\E89` to avoid reinstallation of ncsexpert.
